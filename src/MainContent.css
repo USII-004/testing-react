@@ -1,0 +1,27 @@
+.container {
+  color: white;
+  padding: 57px 27px;
+  background-color: #282c34;
+  height: 60vh;
+}
+
+.main__facts {
+  margin-top: 46px;
+}
+
+.main__facts li {
+  line-height: 20px;
+  padding-block: 10px;
+}
+
+.main__facts li::marker {
+  font-size: 1.5rem;
+  color: #61DAF8;
+}
+
+.main__title {
+  font-size: 39px;
+  margin: 0;
+  letter-spacing: -.05em;
+}
+
